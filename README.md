@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hetyz
 - 👀 I’m interested in Programming, mostly in Java and C#
-- 📫 You can reach me on my e-mail: bezzegh95@gmail.com
+- The public codes are old, the newest one are privates, if you are interested in my Programming skills, contact me at my email address: bezzegh95@gmail.com
 
 <!---
 hetyz/hetyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
